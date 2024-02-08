@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação Expert Notes foi criada para o usuário salvar textos sejam eles escritos ou transcritos com o uso da gravação de voz, por isso para realizar todo o projeto se fez necessáiro a utilização de diversas tecnologias e APIs.
 
-- [Visite o projeto online](https://helenapl145.github.io/ExpertNotes-NLW/)
+- [Visite o projeto online](https://expert-notes-nlw.vercel.app/)
 
 
 ## :memo: Licença
